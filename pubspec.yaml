@@ -30,8 +30,9 @@ dependencies:
   cupertino_icons: ^1.0.2
   http: ^0.13.3
   youtube_player_flutter: ^8.0.0
-  flutter_isolate: ^2.0.0
+  # flutter_isolate: ^2.0.0
   flutter_playout: ^1.0.42
+  assets_audio_player:
 
 dev_dependencies:
   flutter_test:
